@@ -8,7 +8,7 @@ jobs:
       - run:
           name: Get versem binary
           command: |
-            wget -O versem https://github.com/antham/versem/releases/download/v1.0.0/versem_linux_amd64 && \
+            wget -O versem https://github.com/antham/versem/releases/download/v1.1.0/versem_linux_amd64 && \
             sudo mv versem /usr/bin && \
             chmod 777 /usr/bin/versem
       - run:
@@ -34,7 +34,7 @@ jobs:
       - run:
           name: Get versem binary
           command: |
-            wget -O versem https://github.com/antham/versem/releases/download/v1.0.0/versem_linux_amd64 && \
+            wget -O versem https://github.com/antham/versem/releases/download/v1.1.0/versem_linux_amd64 && \
             sudo mv versem /usr/bin && \
             chmod 777 /usr/bin/versem
       - run:
