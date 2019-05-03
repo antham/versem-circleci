@@ -1,5 +1,5 @@
-versem-circleci
-=============
+versem-circleci [![CircleCI](https://circleci.com/gh/antham/versem-circleci.svg?style=svg)](https://circleci.com/gh/antham/versem-circleci)
+===============
 
 Have a look to to [circleci folder](.circleci)
 
